@@ -1,0 +1,2 @@
+# AI-ASSISTIVE-LEARNING-FOR-SCHOOL-STUDENTS
+EDU-GAMIX – an AI-powered learning platform designed to bridge the gap between theoretical learning &amp; real-world understanding.So,we built a solution that makes learning adaptive &amp; engaging.Our backend uses machine learning (RF &amp; DT) to Dynamically adjust quiz difficulty based on student performance Detect weak topic areas for targeted improvement.
